@@ -1,4 +1,3 @@
-// pin additional libs as pipeline matures
 name: cpi-recon
 channels:
   - conda-forge
@@ -9,10 +8,7 @@ dependencies:
   - numpy
   - jupyterlab
   - networkx
-  - tesseract
-  - pillow
   - pytesseract
   - spacy
   - openai
-  - pyyaml
   - requests
