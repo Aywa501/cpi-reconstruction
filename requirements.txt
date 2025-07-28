@@ -1,2 +1,10 @@
-pytest
+pandas
+numpy
+jupyterlab
+networkx
+pytesseract
+spacy
+openai
+requests
 flake8
+pytest
